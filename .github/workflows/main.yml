@@ -1,4 +1,4 @@
-name: wudiwudidexiaokeai
+name: morning
 on:
   schedule:
   - cron:  '0 0 * * *'
